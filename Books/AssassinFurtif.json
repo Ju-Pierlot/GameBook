@@ -1,0 +1,78 @@
+{
+    "Title":"L'assassin Furtif",
+    "Paragraphs":
+    [
+        {
+            "Id":0,
+            "Label":"Vous êtes en train de parcourir un blog passionnant depuis de longues heures quand vous entendez le parquet craquer derrière vous.",
+            "Answers":
+            [
+                {
+                    "Id":2,
+                    "Label":"Regarder derrière."
+                },
+                {
+                    "Id":1,
+                    "Label":"Continuer à lire."
+                },
+                {
+                    "Id":3,
+                    "Label":"Se dégourdir les jambes."
+                    }
+            ],
+            "ColorStart":"#ff9a9e",
+            "ColorEnd":"#fecfef"
+        },
+        {
+            "Id":1,
+            "Label":"Discrètement une personne s’est glissé dans votre dos. Vous êtes assassiné par le Colonel Moutarde avec le chandelier.",
+            "Answers":[],
+            "ColorStart":"#cfd9df",
+            "ColorEnd":"#e2ebf0"},
+            {
+                "Id":2,
+                "Label":"Vous tournez la tête et avez le temps de voir une personne massive fuir par la porte de derrière, laissant une forte odeur de pipe dans son sillage.",
+                "Answers":
+                [
+                    {
+                        "Id":4,
+                        "Label":"Poursuivre cette personne."
+                    },
+                    {
+                        "Id":1,
+                        "Label":"Vous remettre à lire comme si rien ne s’était passé."
+                    },
+                    {
+                        "Id":3,
+                        "Label":"Se dégourdir les jambes."
+                    }
+                ],
+                "ColorStart":"#a1c4fd",
+                "ColorEnd":"#c2e9fb"
+            },
+            {
+                "Id":3,
+                "Label":"Vous vous étirez et vous levez pour marcher un peu. La lumière de la lampe vous montre une personne avec un complet veston orangé d’un goût douteux. Il tient un chandelier d’argent à la main et commence à s’enfuir.",
+                "Answers":
+                [
+                    {
+                        "Id":4,
+                        "Label":"Poursuivre cette personne."
+                    },
+                    {
+                        "Id":1,
+                        "Label":"Vous remettre à lire comme si rien ne s’était passé."
+                    }
+                ],
+                "ColorStart":"#4ca1af",
+                "ColorEnd":"#c4e0e5"
+            },
+            {
+                "Id":4,
+                "Label":"La mystérieuse personne court moins vite que vous, probablement à cause de ses poumons qui contiennent plus de goudron qu’une bretelle d’autoroute. Vous la rattrapez dans le jardin et la plaquez dans un parterre de roses. Le colonel Moutarde meurt quelques instants plus tard en murmurant « Monde de merde ». Vous avez éliminé un dangereux tueur. Youpi, c’est gagné!",
+                "Answers":[],
+                "ColorStart":"#56ab2f",
+                "ColorEnd":"#a8e063"
+            }
+        ]
+}

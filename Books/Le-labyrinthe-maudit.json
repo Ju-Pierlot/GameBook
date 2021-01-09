@@ -1,0 +1,419 @@
+{
+    "Title":"Le Labyrinthe Maudit",
+    "Paragraphs":
+    [
+        {
+            "Id":0,
+            "Label":"Vous vous promenez dans la ville de Djúpivogur en Islande, une ville réputée pour ses légendes et ses histoires étranges. Rappelez-vous, vous êtes venu ici avec un but bien précis… Retrouver votre frère. Mais par où commencer ?",
+            "Answers":
+            [
+                {
+                    "Id":1,
+                    "Label":"Entrer dans le bar à votre droite."
+                },
+                {
+                    "Id":2,
+                    "Label":"S’assoir sur le banc de l’autre côté de la rue."
+                },
+                {
+                    "Id":3,
+                    "Label":"Continer votre chemin"
+                }
+            ],
+            "ColorStart":"#ffb347",
+            "ColorEnd":"#ffcc33"
+        },
+        {
+            "Id":1,
+            "Label":"Bakkabúð. Un nom bien étrange pour un bar… Ça fait quatre heures que vous marchez. Un peu de repos vous ferait du bien.",
+            "Answers":
+            [
+                {
+                    "Id":4,
+                    "Label":"Se diriger vers le barman pour lui demander à boire."
+                },
+                {
+                    "Id":5,
+                    "Label":"Une table semble libre."
+                },
+                {
+                    "Id":3,
+                    "Label":"Sortir. Vous n’avez pas le temps !"
+                }
+            ],
+            "ColorStart":"#43cea2",
+            "ColorEnd":"#185a9d"
+        },
+        {
+            "Id":2,
+            "Label":"Le soir tombe sur la ville de Djúpivogur. Pendant que vous essayé de lire votre carte un homme s’assoit à coté de vous.",
+            "Answers":
+            [
+                {
+                    "Id":3,
+                    "Label":"Se lever et partir."
+                },
+                {
+                    "Id":6,
+                    "Label":"Ne rien dire."
+                }
+            ],
+            "ColorStart":"#FFA17F",
+            "ColorEnd":"#40627E"
+        },
+        {
+            "Id":3,
+            "Label":"Vous continuez votre chemin en direction de la mer. Une seule pensez vous obsède. Où est Clay ? Qu’est-il arrivé à votre frère ? Vous êtes tellement perdu dans vos pensées que vous vous prenez les pieds dans…. Mais qu’est ce que c’est que cette chose ?",
+            "Answers":
+            [
+                {
+                    "Id":7,
+                    "Label":"Saisir l’objet."
+                },
+                {
+                    "Id":13,
+                    "Label":"Vous retournez."
+                },
+                {
+                    "Id":8,
+                    "Label":"Continuer votre chemin."
+                }
+            ],
+            "ColorStart":"#948E99",
+            "ColorEnd":"#4E3457"
+        },
+        {
+            "Id":4,
+            "Label":"Après avoir commandé une bière, vous demandez au barman des informations sur la légende du labyrinthe de Djúpivogur. En effet, votre frère, Clay, était obsédé par cette histoire. Celui-ci vous répond qu’une seule personne dans cette ville pourrait vous renseigner à ce sujet.",
+            "Answers":
+            [
+                {
+                    "Id":9,
+                    "Label":"Vous êtes tout ouïe."
+                }
+            ],
+            "ColorStart":"#1d976c",
+            "ColorEnd":"#93f9b9"
+        },
+        {
+            "Id":5,
+            "Label":"Vous vous asseyez à la table numéro 49. Pourquoi 49 ? Il n’y pourtant qu’une dizaine de table dans cet établissement. Pendant que vous étiez entrain de réfléchir à quelque chose d’inutile, un individu étrange s’est assis à votre table.",
+            "Answers":
+            [
+                {
+                    "Id":3,
+                    "Label":"Partir du bar."
+                },
+                {
+                    "Id":10,
+                    "Label":"Vous entamez la conversation."
+                },
+                {
+                    "Id":6,
+                    "Label":"Ne rien dire."
+                }
+            ],
+            "ColorStart":"#73C8A9",
+            "ColorEnd":"#373B44"
+        },
+        {
+            "Id":6,
+            "Label":"Vous sentez que quelque chose ne va pas. Cette personne à côté de vous est louche. Avant que vous ne puissiez faire le moindre mouvement, vous recevez un coup à la tête. Un coup si violant que vous tombez instantanément dans les pommes.",
+            "Answers":
+            [
+                {
+                    "Id":11,
+                    "Label":"Se réveiller quelques heures plus tard."
+                }
+            ],
+            "ColorStart":"#abbaab",
+            "ColorEnd":"#ffffff"
+        },
+        {
+            "Id":7,
+            "Label":"C’est une boussole. Une boussole qui ne semble pas indiquer le nord. A pêne vous la regardez que vous entendez hurler derrière vous. NE TOUCHEZ PAS À ÇA !",
+            "Answers":
+            [
+                {
+                    "Id":12,
+                    "Label":"Courir et suivre la boussole."
+                },
+                {
+                    "Id":13,
+                    "Label":"Vous retournez."
+                }
+            ],
+            "ColorStart":"#83a4d4",
+            "ColorEnd":"#b6fbff"
+        },
+        {
+            "Id":8,
+            "Label":"Perdu sur les quais de Djúpivogur, vous errez en pensant encore et toujours à votre frère. Vous êtes désespéré.",
+            "Answers":
+            [
+                {
+                    "Id":10,
+                    "Label":"Interpeller un passant."
+                },
+                {
+                    "Id":12,
+                    "Label":"Continuer votre chemin."
+                }
+            ],
+            "ColorStart":"#fe8c00",
+            "ColorEnd":"#f83600"
+        },
+        {
+            "Id":9,
+            "Label":"Cette personne est un vielle homme. Il vit dans une petite cabane à l’extérieur de la ville. Pour y accéder vous devez longer le quai et partir en direction de la forêt. Vous venez de terminer votre bière.",
+            "Answers":
+            [
+                {
+                    "Id":14,
+                    "Label":"Prendre une autre bière."
+                },
+                {
+                    "Id":12,
+                    "Label":"Trouver le veille homme."
+                }
+            ],
+            "ColorStart":"#00c6ff",
+            "ColorEnd":"#0072ff"
+        },
+        {
+            "Id":10,
+            "Label":"Vous demandez des informations sur la légende du labyrinthe de Djúpivogur. En effet, votre frère, Clay, était obsédé par cette histoire. Celui-ci vous répond qu’une seule personne dans cette ville pourrait vous renseigner à ce sujet.",
+            "Answers":
+            [
+                {
+                    "Id":9,
+                    "Label":"Ecouter attentivement."
+                }
+            ],
+            "ColorStart":"#70e1f5",
+            "ColorEnd":"#ffd194"
+        },
+        {
+            "Id":11,
+            "Label":"Votre tête vous fait mal et vous ne savez pas où vous êtes. Un long couloir se trouve à votre droite. Ainsi que derrière vous et devant vous. Sans oublier à votre gauche… Un message se trouve à vos pieds : rejoignez le centre si vous voulez retrouver votre sang…",
+            "Answers":
+            [
+                {
+                    "Id":15,
+                    "Label":"Aller tout droit."
+                },
+                {
+                    "Id":16,
+                    "Label":"Aller à gauche."
+                },
+                {
+                    "Id":17,
+                    "Label":"Aller à droite."
+                },
+                {
+                    "Id":18,
+                    "Label":"Se retourner et courir."
+                }
+            ],
+            "ColorStart":"#556270",
+            "ColorEnd":"#ff6b6b"
+        },
+        {
+            "Id":12,
+            "Label":"Ça fait une heure que vous vous déplacez vers cette forêt. Vous tombez sur une cabane sans fenêtre ni porte.",
+            "Answers":
+            [
+                {
+                    "Id":19,
+                    "Label":"Entrer."
+                }
+            ],
+            "ColorStart":"#9b50bb",
+            "ColorEnd":"#6e48aa"
+        },
+        {
+            "Id":13,
+            "Label":"Vous vous faîtes assassiner par un individu capuchonné. Avant de vous endormir à tout jamais vous entendez ces quelques mots : « Vous, … Je ne vous laisserai pas tout gâcher. Le labyrinthe ne doit pas… ».",
+            "Answers":
+            [],
+            "ColorStart":"#f0c27b",
+            "ColorEnd":"#4b1248"
+        },
+        {
+            "Id":14,
+            "Label":"Le barman vous sert une autre bière. Vous n’avez rien mangé depuis plus d’un jour, l’alcool commence à vous monter à la tête.",
+            "Answers":
+            [
+                {
+                    "Id":20,
+                    "Label":"Reprendre une bière."
+                }
+            ],
+            "ColorStart":"#606c88",
+            "ColorEnd":"#3f4c6b"
+        },
+        {
+            "Id":15,
+            "Label":"Vous prenez la décision d’aller tout droit. Mais ce couloir semble interminable ! La pression monte de plus en plus. Vous vous demander si votre frère est toujours en vie. Est-il blessé ? Est-il… mort ?",
+            "Answers":
+            [
+                {
+                    "Id":21,
+                    "Label":"Continuer."
+                },
+                {
+                    "Id":22,
+                    "Label":"Faire demi-tour."
+                }
+            ],
+            "ColorStart":"#649173",
+            "ColorEnd":"#dbd5a4"
+        },
+        {
+            "Id":16,
+            "Label":"Vous avez un bon présentiment. Après un tournant, vous tombez sur votre frère. Il est en larme. Pas le temps pour célébrer les retrouvailles. Devant vous se trouve deux portes. C’est la dernière épreuve…",
+            "Answers":
+            [
+                {
+                    "Id":23,
+                    "Label":"Porte de gauche."
+                },
+                {
+                    "Id":24,
+                    "Label":"Porte de droite."
+                }
+            ],
+            "ColorStart":"#b993d6",
+            "ColorEnd":"#8ca6db"
+        },
+        {
+            "Id":17,
+            "Label":"Pourquoi avoir pris cette direction !? Vous tombez nez-à-nez avec un centaure. Une créature mythologique qui n’a aucun mal à vous déchiqueter… Qu’est devenu votre Clay ? Vous ne saurez jamais.",
+            "Answers":
+            [],
+            "ColorStart":"#00d2ff",
+            "ColorEnd":"#3a7bd5"
+        },
+        {
+            "Id":18,
+            "Label":"Vous courez mais très vitre un choix est à faire. Et vite ! Un hurlement, plus glacial que la mort, retenti derrière vous.",
+            "Answers":
+            [
+                {
+                    "Id":16,
+                    "Label":"Prendre le chemin de droite."
+                },
+                {
+                    "Id":26,
+                    "Label":"Prendre le chemin de gauche."
+                }
+            ],
+            "ColorStart":"#e6dada",
+            "ColorEnd":"#274046"
+        },
+        {
+            "Id":19,
+            "Label":"Personne à l’intérieur… Cette cabane est abandonnée depuis des années. Vous remarquez au fond de la pièce un trou. Vous décidez de vous approcher. Mais attention ça glisse ! Vous tombez et vous cogniez la tête.",
+            "Answers":
+            [
+                {
+                    "Id":11,
+                    "Label":"Se relever."
+                }
+            ],
+            "ColorStart":"#e9d362",
+            "ColorEnd":"#737373"
+        },
+        {
+            "Id":20,
+            "Label":"Vous avez trop bu. Beaucoup trop bu ! Tellement bu que vous tombez raide saoul. Quelqu’un en profite pour vous déplace mais… pour aller où ?",
+            "Answers":
+            [
+                {
+                    "Id":11,
+                    "Label":"Se réveiller."
+                }
+            ],
+            "ColorStart":"#a73737",
+            "ColorEnd":"#7a2828"
+        },
+        {
+            "Id":21,
+            "Label":"C’est très long… Mais vous arrivez finalement au centre. Vous trouvez votre frère… mort. Quelque chose de très gros la tuée. Vous devez absolument sortir d’ici ! Vous êtes en danger ! Deux portes se trouvent devant vous.",
+            "Answers":
+            [
+                {
+                    "Id":25,
+                    "Label":"Prendre la porte de gauche."
+                },
+                {
+                    "Id":27,
+                    "Label":"Prendre la porte de droite."
+                }
+            ],
+            "ColorStart":"#4b6cb7",
+            "ColorEnd":"#182848"
+        },
+        {
+            "Id":22,
+            "Label":"Vous retombez là où vous étiez précédemment. Vous pensez avoir entendu quelque chose… d’effrayant.",
+            "Answers":
+            [
+                {
+                    "Id":18,
+                    "Label":"Continuer tout droit."
+                },
+                {
+                    "Id":16,
+                    "Label":"Aller à droite."
+                },
+                {
+                    "Id":17,
+                    "Label":"Aller à gauche."
+                }
+            ],
+            "ColorStart":"#818d0b",
+            "ColorEnd":"#727a17"
+        },
+        {
+            "Id":23,
+            "Label":"Vous ouvrez la porte. Clay pousse un crie assourdissant et vous allez vite comprendre pourquoi. Vous tombez sur une bête horrible. Une sorte de taureau humain. Vous êtes mort.",
+            "Answers":
+            [],
+            "ColorStart":"#757f9a",
+            "ColorEnd":"#d7dde8"
+        },
+        {
+            "Id":24,
+            "Label":"Bonne pioche. Vous sortez avec votre frère du labyrinthe. Il a beaucoup de chose à vous dire mais pour l’heure, il est temps de célébrer les retrouvailles. Vous rentrez tous les deux sains et sauf. Bien jouez, vous avez gagné !",
+            "Answers":
+            [],
+            "ColorStart":"#ffffff",
+            "ColorEnd":"#4389a2"
+        },
+        {
+            "Id":25,
+            "Label":"Vous avez ouvert la bonne porte. Vous êtes maintenant dehors et en vie. On ne peut pas en dire entant de votre frère, Clay. Auriez-vous pu le sauvez ? Avez-vous fait les bons choix ont été fait ? Si vous avez la possibilité de recommencer, le feriez-vous ?",
+            "Answers":
+            [],
+            "ColorStart":"#134e5e",
+            "ColorEnd":"#71b280"
+        },
+        {
+            "Id":26,
+            "Label":"Vous prenez le chemin de gauche. Malheureusement vous tombez dans un trou. Vous allez être surpris de découvrir que celui-ci était remplis de mygales venimeuses. Quelle horrible façon de mourir…",
+            "Answers":
+            [],
+            "ColorStart":"#614385",
+            "ColorEnd":"#516395"
+        },
+        {
+            "Id":27,
+            "Label":"Il fait noir, très noir… Vous sentez un souffle chaud dans votre nuque. Vous savez maintenant ce qui a tué votre frère. Et vous…",
+            "Answers":
+            [],
+            "ColorStart":"#1f1c2c",
+            "ColorEnd":"#928dab"
+        }
+    ]
+}

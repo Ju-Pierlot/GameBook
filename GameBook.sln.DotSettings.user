@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=780a5367_002Df0ed_002D4f11_002Db6ab_002Da8b8d403c8d4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AnswerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DEBA381C-F041-460A-91FB-6341A3443C92::.NETCoreApp,Version=v3.1::GameBook.Tests.Models.AnswerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DEBA381C-F041-460A-91FB-6341A3443C92::.NETCoreApp,Version=v3.1::GameBook.Tests.Models.ParagraphTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DEBA381C-F041-460A-91FB-6341A3443C92::.NETCoreApp,Version=v3.1::GameBook.Tests.Models.BookTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DEBA381C-F041-460A-91FB-6341A3443C92::.NETCoreApp,Version=v3.1::GameBook.Tests.ViewModels.MessageViewModelTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DEBA381C-F041-460A-91FB-6341A3443C92::.NETCoreApp,Version=v3.1::GameBook.Tests.ViewModels.ParagraphsBoxViewModelTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DEBA381C-F041-460A-91FB-6341A3443C92::.NETCoreApp,Version=v3.1::GameBook.Tests.Models.Io.ServicesTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DEBA381C-F041-460A-91FB-6341A3443C92::.NETCoreApp,Version=v3.1::GameBook.Tests.Models.Io.ReadBookTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DEBA381C-F041-460A-91FB-6341A3443C92::.NETCoreApp,Version=v3.1::GameBook.Tests.Models.Io.ReadHistoryTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DEBA381C-F041-460A-91FB-6341A3443C92::.NETCoreApp,Version=v3.1::GameBook.Tests.Models.Io.WriteHistoryTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DEBA381C-F041-460A-91FB-6341A3443C92::.NETCoreApp,Version=v3.1::GameBook.Tests.Models.HistoryTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DEBA381C-F041-460A-91FB-6341A3443C92::.NETCoreApp,Version=v3.1::GameBook.Tests.Models.ReadingSessionTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DEBA381C-F041-460A-91FB-6341A3443C92::.NETCoreApp,Version=v3.1::GameBook.Tests.Models.NullObjectParagraphTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DEBA381C-F041-460A-91FB-6341A3443C92::.NETCoreApp,Version=v3.1::GameBook.Tests.ViewModels.test.Test&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

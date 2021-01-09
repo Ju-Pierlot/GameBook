@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+WKW9zw3TWkrNFdTWkOme673kybiKut7Wm2eK9QTezFF6UJKSWeurWSMOD1MHTHKfMvYk4YmXVe3/so6hpA8hA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pierl\\Downloads\\GameBook-master-7de6e85aff1be9467fea3f65cf070c2012beff78\\GameBook.Views\\GameBook.Views.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pierl\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\pierl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

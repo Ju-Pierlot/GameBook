@@ -1,0 +1,223 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pierl\\Downloads\\GameBook-master-7de6e85aff1be9467fea3f65cf070c2012beff78\\GameBook.Tests\\GameBook.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pierl\\Downloads\\GameBook-master-7de6e85aff1be9467fea3f65cf070c2012beff78\\GameBook.Models\\GameBook.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pierl\\Downloads\\GameBook-master-7de6e85aff1be9467fea3f65cf070c2012beff78\\GameBook.Models\\GameBook.Models.csproj",
+        "projectName": "GameBook.Models",
+        "projectPath": "C:\\Users\\pierl\\Downloads\\GameBook-master-7de6e85aff1be9467fea3f65cf070c2012beff78\\GameBook.Models\\GameBook.Models.csproj",
+        "packagesPath": "C:\\Users\\pierl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pierl\\Downloads\\GameBook-master-7de6e85aff1be9467fea3f65cf070c2012beff78\\GameBook.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pierl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pierl\\Downloads\\GameBook-master-7de6e85aff1be9467fea3f65cf070c2012beff78\\GameBook.Tests\\GameBook.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pierl\\Downloads\\GameBook-master-7de6e85aff1be9467fea3f65cf070c2012beff78\\GameBook.Tests\\GameBook.Tests.csproj",
+        "projectName": "GameBook.Tests",
+        "projectPath": "C:\\Users\\pierl\\Downloads\\GameBook-master-7de6e85aff1be9467fea3f65cf070c2012beff78\\GameBook.Tests\\GameBook.Tests.csproj",
+        "packagesPath": "C:\\Users\\pierl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pierl\\Downloads\\GameBook-master-7de6e85aff1be9467fea3f65cf070c2012beff78\\GameBook.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pierl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\pierl\\Downloads\\GameBook-master-7de6e85aff1be9467fea3f65cf070c2012beff78\\GameBook.Models\\GameBook.Models.csproj": {
+                "projectPath": "C:\\Users\\pierl\\Downloads\\GameBook-master-7de6e85aff1be9467fea3f65cf070c2012beff78\\GameBook.Models\\GameBook.Models.csproj"
+              },
+              "C:\\Users\\pierl\\Downloads\\GameBook-master-7de6e85aff1be9467fea3f65cf070c2012beff78\\GameBook.Views\\GameBook.Views.csproj": {
+                "projectPath": "C:\\Users\\pierl\\Downloads\\GameBook-master-7de6e85aff1be9467fea3f65cf070c2012beff78\\GameBook.Views\\GameBook.Views.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.15.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pierl\\Downloads\\GameBook-master-7de6e85aff1be9467fea3f65cf070c2012beff78\\GameBook.Views\\GameBook.Views.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pierl\\Downloads\\GameBook-master-7de6e85aff1be9467fea3f65cf070c2012beff78\\GameBook.Views\\GameBook.Views.csproj",
+        "projectName": "GameBook.Views",
+        "projectPath": "C:\\Users\\pierl\\Downloads\\GameBook-master-7de6e85aff1be9467fea3f65cf070c2012beff78\\GameBook.Views\\GameBook.Views.csproj",
+        "packagesPath": "C:\\Users\\pierl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pierl\\Downloads\\GameBook-master-7de6e85aff1be9467fea3f65cf070c2012beff78\\GameBook.Views\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pierl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\pierl\\Downloads\\GameBook-master-7de6e85aff1be9467fea3f65cf070c2012beff78\\GameBook.Models\\GameBook.Models.csproj": {
+                "projectPath": "C:\\Users\\pierl\\Downloads\\GameBook-master-7de6e85aff1be9467fea3f65cf070c2012beff78\\GameBook.Models\\GameBook.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

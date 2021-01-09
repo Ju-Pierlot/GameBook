@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Rsc\arrow_black.png" />
+    <None Remove="Rsc\arrow_white.png" />
+    <None Remove="Rsc\icon.png" />
+    <None Remove="Rsc\minimize.png" />
+    <None Remove="Rsc\minimizeHover.png" />
+    <None Remove="Rsc\quit.png" />
+    <None Remove="Rsc\quitHover.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GameBook.Models\GameBook.Models.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Rsc\arrow_black.png" />
+    <Resource Include="Rsc\arrow_white.png" />
+    <Resource Include="Rsc\icon.png" />
+    <Resource Include="Rsc\minimize.png" />
+    <Resource Include="Rsc\minimizeHover.png" />
+    <Resource Include="Rsc\quit.png" />
+    <Resource Include="Rsc\quitHover.png" />
+  </ItemGroup>
+
+</Project>
